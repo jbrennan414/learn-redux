@@ -3,7 +3,6 @@
 // 2) a copy of current state
 
 function comments(state=[], action){
-    console.log("2222", state,action)
     return state;
 }
 
